@@ -5,7 +5,7 @@
 # DOMAIN: 3
 # DOMAIN-KEYWORD: 3
 # DOMAIN-SUFFIX: 45
-# TOTAL: 51
+# TOTAL: 53
 DOMAIN,emby.enjoyit.eu.org
 DOMAIN,emby.lcloud.wiki
 DOMAIN,notnetflix.cos.cat
@@ -54,7 +54,8 @@ DOMAIN-SUFFIX,poloemby.xyz
 DOMAIN-SUFFIX,pornemby.club
 DOMAIN-SUFFIX,servers.xeton.dev
 DOMAIN-SUFFIX,xmsl.org
-DOMAIN-SUFFIX,cc.coemn.com
+DOMAIN-SUFFIX,coemn.com
+DOMAIN-SUFFIX,catlinks.co.uk
 DOMAIN-KEYWORD,emby.wtf
 DOMAIN-KEYWORD,jmsooo
 DOMAIN-KEYWORD,odysseyplus
